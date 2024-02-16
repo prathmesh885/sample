@@ -1,0 +1,13 @@
+.col-3, .col-6{
+    margin: 10px;
+ border: 2px solid rgb(206, 192, 192);
+}
+
+/* 
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/prathmesh885/sample.git
+git push -u origin main
+
+ */
